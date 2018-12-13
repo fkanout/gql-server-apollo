@@ -4,6 +4,7 @@
   "description": "A nice &amp; simple a hello world project with GraphQL",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
