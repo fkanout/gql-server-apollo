@@ -1,0 +1,19 @@
+{
+  "name": "gql-server-apollo",
+  "version": "1.0.0",
+  "description": "A nice &amp; simple a hello world project with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkanout/gql-server-apollo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkanout/gql-server-apollo/issues"
+  },
+  "homepage": "https://github.com/fkanout/gql-server-apollo#readme"
+}
