@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/fkanout/gql-server-apollo/issues"
   },
-  "homepage": "https://github.com/fkanout/gql-server-apollo#readme"
+  "homepage": "https://github.com/fkanout/gql-server-apollo#readme",
+  "dependencies": {
+    "apollo-server-koa": "^2.3.1",
+    "graphql": "^14.0.2",
+    "koa": "^2.6.2"
+  }
 }
